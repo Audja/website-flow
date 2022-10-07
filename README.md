@@ -1,5 +1,5 @@
 # website-flow
 
-all the cheese are good for pizza !
-all cheese are good !
+Cheese is good for pizza !
+Cheese is good !
 cheeeeeeeeeeese !
